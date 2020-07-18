@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-29T10:06:09.570Z</updated>
+  <updated>2020-07-18T13:20:38.881Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>some thoughts</title>
+    <link href="http://yoursite.com/2020/07/18/some-thoughts/"/>
+    <id>http://yoursite.com/2020/07/18/some-thoughts/</id>
+    <published>2020-07-18T13:11:32.000Z</published>
+    <updated>2020-07-18T13:20:38.881Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="学到就是赚到"><a href="#学到就是赚到" class="headerlink" title="学到就是赚到"></a>学到就是赚到</h2><h2 id="不要去透支明天"><a href="#不要去透支明天" class="headerlink" title="不要去透支明天"></a>不要去透支明天</h2><p>透支其实是</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;学到就是赚到&quot;&gt;&lt;a href=&quot;#学到就是赚到&quot; class=&quot;headerlink&quot; title=&quot;学到就是赚到&quot;&gt;&lt;/a&gt;学到就是赚到&lt;/h2&gt;&lt;h2 id=&quot;不要去透支明天&quot;&gt;&lt;a href=&quot;#不要去透支明天&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>一些学术Trick软件</title>
@@ -58,129 +80,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown</title>
-    <link href="http://yoursite.com/2020/06/29/Markdown-1/"/>
-    <id>http://yoursite.com/2020/06/29/Markdown-1/</id>
-    <published>2020-06-29T10:04:18.000Z</published>
-    <updated>2020-06-29T10:04:18.209Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Markdow</title>
-    <link href="http://yoursite.com/2020/06/29/Markdow/"/>
-    <id>http://yoursite.com/2020/06/29/Markdow/</id>
-    <published>2020-06-29T10:04:05.000Z</published>
-    <updated>2020-06-29T10:04:05.360Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test3</title>
-    <link href="http://yoursite.com/2020/06/26/test3/"/>
-    <id>http://yoursite.com/2020/06/26/test3/</id>
-    <published>2020-06-25T16:05:24.000Z</published>
-    <updated>2020-06-25T16:06:34.148Z</updated>
-    
-    <content type="html"><![CDATA[<p>adslkdasjkladsj<br>jkasdjlkf</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;adslkdasjkladsj&lt;br&gt;jkasdjlkf&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="asdadsl" scheme="http://yoursite.com/tags/asdadsl/"/>
-    
-      <category term="adsadsjfad0a-a" scheme="http://yoursite.com/tags/adsadsjfad0a-a/"/>
-    
-      <category term="-adsflkja" scheme="http://yoursite.com/tags/adsflkja/"/>
-    
-      <category term="ffajs" scheme="http://yoursite.com/tags/ffajs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test1</title>
-    <link href="http://yoursite.com/2020/06/25/test1/"/>
-    <id>http://yoursite.com/2020/06/25/test1/</id>
-    <published>2020-06-25T15:53:39.000Z</published>
-    <updated>2020-06-25T15:58:35.800Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-      <category term="asdjadlkj" scheme="http://yoursite.com/tags/asdjadlkj/"/>
-    
-      <category term="asdjlkasdj" scheme="http://yoursite.com/tags/asdjlkasdj/"/>
-    
-      <category term="asdjklasdj" scheme="http://yoursite.com/tags/asdjklasdj/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2020/06/25/test/"/>
-    <id>http://yoursite.com/2020/06/25/test/</id>
-    <published>2020-06-25T15:36:35.000Z</published>
-    <updated>2020-06-25T15:37:30.483Z</updated>
-    
-    <content type="html"><![CDATA[<p>hahdhsdhasds<br>thesi sda</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;hahdhsdhasds&lt;br&gt;thesi sda&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="asdjfklajsdflasd" scheme="http://yoursite.com/categories/asdjfklajsdflasd/"/>
-    
-      <category term="dsa" scheme="http://yoursite.com/categories/asdjfklajsdflasd/dsa/"/>
-    
-      <category term="trick" scheme="http://yoursite.com/categories/asdjfklajsdflasd/dsa/trick/"/>
-    
-      <category term="origin" scheme="http://yoursite.com/categories/asdjfklajsdflasd/dsa/trick/origin/"/>
-    
-      <category term="reading" scheme="http://yoursite.com/categories/asdjfklajsdflasd/dsa/trick/origin/reading/"/>
-    
-    
-      <category term="lalala" scheme="http://yoursite.com/tags/lalala/"/>
-    
-      <category term="helo" scheme="http://yoursite.com/tags/helo/"/>
-    
-      <category term="asdjfklajsdfl" scheme="http://yoursite.com/tags/asdjfklajsdfl/"/>
-    
-      <category term="trick" scheme="http://yoursite.com/tags/trick/"/>
     
   </entry>
   
@@ -281,21 +180,6 @@
       <category term="Technique" scheme="http://yoursite.com/tags/Technique/"/>
     
       <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>llalal</title>
-    <link href="http://yoursite.com/2020/06/23/llalal/"/>
-    <id>http://yoursite.com/2020/06/23/llalal/</id>
-    <published>2020-06-23T14:18:50.000Z</published>
-    <updated>2020-06-23T14:18:50.344Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
     
   </entry>
   

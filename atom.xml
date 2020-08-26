@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-17T07:00:43.446Z</updated>
+  <updated>2020-08-26T14:37:58.608Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Latex_symbols</title>
+    <link href="http://yoursite.com/2020/08/26/Latex-symbols/"/>
+    <id>http://yoursite.com/2020/08/26/Latex-symbols/</id>
+    <published>2020-08-26T14:31:13.000Z</published>
+    <updated>2020-08-26T14:37:58.608Z</updated>
+    
+    <content type="html"><![CDATA[<p>1<br><img src="Latex-symbols/2020-08-26-22-24-28.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-25-03.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-25-17.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-25-34.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-25-48.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-25-58.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-24-28.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-36-03.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-36-44.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-37-02.png" alt=""><br><img src="Latex-symbols/2020-08-26-22-37-23.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1&lt;br&gt;&lt;img src=&quot;Latex-symbols/2020-08-26-22-24-28.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;Latex-symbols/2020-08-26-22-25-03.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;La
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Latex_symbols</title>
+    <link href="http://yoursite.com/2020/08/26/Latex-symbols/Latex-symbols/"/>
+    <id>http://yoursite.com/2020/08/26/Latex-symbols/Latex-symbols/</id>
+    <published>2020-08-26T14:31:13.000Z</published>
+    <updated>2020-08-26T14:32:13.098Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>霍乱时期的爱情-笔记本</title>
